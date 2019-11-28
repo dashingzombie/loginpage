@@ -1,0 +1,120 @@
+
+
+.NormalCharacterStyle1
+{
+  font-family : GENISO;
+  font-size : 19px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle2
+{
+  font-family : Bahnschrift;
+  font-size : 24px;
+  color : #F5FFBF;
+  color : rgb(245, 255, 191);
+}
+.NormalCharacterStyle4
+{
+  font-family : Saved By Zero;
+  font-size : 72px;
+  color : #35FF46;
+  text-align: center;
+  color : rgb(53, 255, 70);
+}
+.password-rectangle
+{
+  background : #00044A;
+  background : rgba(0, 4, 74, 1);
+  border-style : Solid;
+  border-color : #FFFFFF;
+  border-color : rgba(255, 255, 255, 1);
+  border-width : 4px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.NormalCharacterStyle3
+{
+  font-family : Bahnschrift;
+  font-size : 24px;
+  text-align: center;
+  color : #F1FFDF;
+  color : rgb(241, 255, 223);
+}
+.Conect_Button
+{
+  background : #30F400;
+  background : rgba(48, 244, 0, 1);
+  border-style : Solid;
+  border-color : #FFFFFF;
+  border-color : rgba(255, 255, 255, 1);
+  border-width : 4px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.bg
+{
+  background-image : url(bg.png);
+  background-repeat : no-repeat;
+}
+.st0
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+  border-style : Solid;
+  border-color : #FFFFFF;
+  border-color : rgba(255, 255, 255, 1);
+  border-width : 1x;
+}
+.NormalCharacterStyle
+{
+  font-family : GENISO;
+  font-size : 14px;
+  line-height : 56.37px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.log_rect
+{
+  background : #00044B;
+  background : rgba(0, 4, 75, 1);
+  border-style : Solid;
+  border-color : #FFFFFF;
+  border-color : rgba(255, 255, 255, 1);
+  border-width : 6px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+}
+.reg_rectangle
+{
+  max-width:500px;
+  margin: auto;
+  
+  background : #00044A;
+  background : rgba(0, 4, 74, 1);
+  border-style : Solid;
+  border-color : #FFFFFF;
+  border-color : rgba(255, 255, 255, 1);
+  border-width : 4px;
+  border-radius : 12px;
+  -moz-border-radius : 12px;
+  -webkit-border-radius : 12px;
+  align-content: center;
+}
+.letter
+{
+  background-image : url(letter.png);
+  background-repeat : no-repeat;
+}
+.Line_1
+{
+  background : #FFFFFF;
+  background : rgba(255, 255, 255, 1);
+  border-style : Solid;
+  border-color : #000000;
+  border-color : rgba(0, 0, 0, 1);
+  border-width : 2px;
+}
